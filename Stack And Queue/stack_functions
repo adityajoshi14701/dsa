@@ -1,1 +1,13 @@
+# Creating a new stack :
+Stack stk = new Stack();     or    Stack<type> stk = new Stack<>();  
 
+# Methods :
+1. empty() -> (boolean) : checks if stack is empty or not
+2. push(e) -> (e) : insert element at the top of the stack
+3. pop() -> (e) : remove the top element of the stack and return the same element as the value of the function
+4. peek() -> (e) : return the top lement without removing it
+5. search(Object o) -> (int) : search the given object and return it's index
+
+
+## Prioritize use of Deque over Stack
+The Stack class in Java is a legacy class and inherits from Vector in Java. It is a thread-safe class and hence involves overhead when we do not need thread safety. It is recommended to use ArrayDeque for stack implementation as it is more efficient in a single-threaded environment.
