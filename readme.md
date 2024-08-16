@@ -1,24 +1,15 @@
-# Striver's A2Z DSA Course Overview
 
-This is a mini view of Striver's A2Z DSA Course content from [this page](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/). Click on the topics to expand the details.
 
----
 
-<details>
-  <summary>📌 Step 1: Learn the Basics</summary>
-  
-  ```plaintext
-  - Input/Output & Variables
-  - Data Types & Operators
-  - Loops (For, While)
-  - Functions & Recursion
-  - Time Complexity Analysis
 
 ---
 
 # Striver's A2Z DSA Course Checklist
 
 This checklist covers the entire Striver's A2Z Data Structures and Algorithms (DSA) course. Mark each topic as complete once you finish solving related problems.
+
+This is a mini view of Striver's A2Z DSA Course content from [this page](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/). Click on the topics to expand the details.
+
 
 ---
 
